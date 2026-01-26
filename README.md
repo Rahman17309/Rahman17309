@@ -160,9 +160,10 @@ GPA: First Class
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rahman17309" 
+    src="https://streak-stats.demolab.com?user=Rahman17309" 
   />
 </p>
+
 
 ---
 
