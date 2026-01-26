@@ -145,14 +145,23 @@ GPA: First Class
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahman17309&show_icons=true&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rahman17309&show_icons=true&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman17309&layout=compact&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahman17309" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rahman17309" 
+  />
 </p>
 
 ---
