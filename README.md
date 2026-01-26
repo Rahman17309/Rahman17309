@@ -13,7 +13,7 @@
 Dynamic Business & Data Analyst with 3+ years of experience delivering predictive analytics, KPI-driven dashboards, and automated data solutions that drive measurable business growth.
 </h3>
 
-<!-- ===================== PROFILE PIC ===================== -->
+<!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
   <img 
     src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/profile-pic.png"
@@ -27,105 +27,119 @@ Dynamic Business & Data Analyst with 3+ years of experience delivering predictiv
 
 ## 🚀 About Me
 
-- 📊 **Business & Data Analyst** specializing in **Predictive Modeling, KPI Tracking & Automation**
-- 🧠 Strong expertise in **Python · BigQuery · Power BI · Advanced Excel**
-- ⚙️ Passionate about converting **statistical insights into real business impact**
-- 🌍 Experience across **Retail, SaaS, E-commerce, Energy & Finance domains**
-- 🤝 Known for working closely with **C-suite & cross-functional teams**
+- 📊 Business & Data Analyst specializing in **Predictive Modeling, KPI Tracking & Automation**
+- 🧠 Expert in **Python · BigQuery · Power BI · Advanced Excel**
+- ⚙️ Strong experience across **Retail, SaaS, E-commerce, Finance & Energy**
+- 🤝 Collaborates closely with **C-suite & cross-functional teams**
+- 🌍 Based in **Dubai, UAE**
+
+---
+
+## 📈 Business Impact Highlights
+
+- 📊 Improved customer retention by **18%** using churn & CLV models  
+- 💰 Generated **AED 150K quarterly revenue** via conversion optimization  
+- ⚙️ Reduced manual reporting effort by **60%** through ETL automation  
+- 🎯 Increased NLP classification accuracy by **20%**  
+- ⚡ Reduced forecasting RMSE by **15%** using ensemble time-series models  
 
 ---
 
 ## 💼 Professional Experience
 
-### **Data Analyst — PDA Infotech**  
+### **Data Analyst — PDA Infotech**
 📍 Dubai, UAE | 🗓 Nov 2024 – Present
 
-- Designed and deployed **predictive analytics & ML models** (Churn, CLV, Segmentation, Conversion)  
-  → 📈 Improved retention **18%**, increased conversion **25%**, generated **AED 150K quarterly revenue**
-- Built **Power BI dashboards** (DAX, Power Query) for Sales, Marketing & CX teams  
-  → Enabled **board-level KPI reporting & operational decisions**
-- Automated **ETL pipelines** using **Python, BigQuery & Google Sheets**  
-  → ⏱ Reduced manual reporting effort by **60%**
-- Delivered **forecasting, budgeting & performance models** directly to C-suite
-- Implemented **data governance frameworks** improving accuracy, consistency & trust
+- Designed and deployed predictive analytics & ML models (churn, CLV, segmentation, conversion)
+- Built executive-level Power BI dashboards (DAX, Power Query)
+- Automated ETL pipelines using Python, BigQuery & Google Sheets
+- Delivered forecasting, budgeting & performance models to leadership
+- Implemented data governance frameworks to improve accuracy & trust
 
 ---
 
-### **Data Science Intern — AI Variant**  
+### **Data Science Intern — AI Variant**
 📍 Hyderabad, India | 🗓 Jun 2023 – Aug 2024
 
-- Built **NLP sentiment analysis pipelines** using Python, NLTK & Scikit-learn  
-  → 🎯 Improved classification accuracy by **20%**
-- Developed **automated web scraping** using Selenium for real-time insights
-- Created **stock forecasting models** (LSTM, ARIMA, Prophet)  
-  → 📉 Reduced RMSE by **15%**, achieved **85% accuracy**
-- Designed **solar power prediction models**  
-  → ⚡ 88% accuracy, **12% operational cost reduction**
-- Built **bankruptcy risk models** using ensemble learning  
-  → 🚨 Reduced false positives by **18%**
+- Built NLP sentiment pipelines using NLTK & Scikit-learn
+- Automated web scraping using Selenium
+- Developed LSTM, ARIMA & Prophet forecasting models
+- Created solar power and bankruptcy risk prediction systems
 
 ---
 
-### **Business Analyst — Amazon**  
+### **Business Analyst — Amazon**
 📍 Hyderabad, India | 🗓 May 2022 – May 2023
 
-- Automated seller operations using **Excel Macros & ETL**
-- Increased process efficiency by **15%**
+- Automated seller operations using Excel macros & ETL
+- Improved process efficiency by **15%**
 - Designed SOPs & improved catalog data integrity
-- Supported **Seller Flex & Transparency projects** through automation
 
 ---
 
 ## 🧠 Core Skills
 
-### **Languages & Tools**
-- Python, Power BI, Advanced Excel
-- SQL (PostgreSQL, MySQL), BigQuery
-- GitHub, AWS, Azure Cloud
+**Languages & Tools**  
+Python, Power BI, Advanced Excel, SQL, BigQuery  
 
-### **Libraries & Frameworks**
-- Pandas, NumPy, Scikit-learn
-- TensorFlow, Keras
-- Matplotlib, Seaborn, Plotly
-- Streamlit, Flask, REST APIs
+**Libraries & Frameworks**  
+Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+Matplotlib, Seaborn, Plotly  
+Streamlit, Flask, REST APIs  
+
+**Cloud & DevOps**  
+AWS, Azure, GitHub  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **Bankruptcy Prevention System**
-Risk Assessment & Ensemble ML  
-- Improved accuracy **22%**
-- Reduced false positives **18%**
-
-### 🔹 **Apple Stock Forecasting**
-Time Series & Predictive Modeling  
-- LSTM + ARIMA + Prophet ensemble  
-- **15% RMSE reduction**, **85% accuracy**
-
-### 🔹 **NLP Sentiment & Classification**
-Customer Intelligence & Automation  
-- Real-time scraping + NLP pipeline  
-- **20% accuracy improvement**
-
-### 🔹 **Solar Power Prediction**
-Renewable Energy Optimization  
-- 88% prediction accuracy  
-- Deployed using **Streamlit**
+- **Bankruptcy Prevention System** — Ensemble ML (22% accuracy improvement)  
+- **Apple Stock Forecasting** — LSTM + ARIMA + Prophet (85% accuracy)  
+- **NLP Sentiment Analysis** — Real-time scraping & classification  
+- **Solar Power Prediction** — Deployed with Streamlit (88% accuracy)  
 
 ---
 
-## 🎓 Education & Certifications
+## 📊 GitHub Analytics
 
-🎓 **B.Tech – Mechanical Engineering**  
-Jawaharlal Nehru Technological University Hyderabad  
-GPA: First Class
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rahman17309&show_icons=true&cache_seconds=1800"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman17309&layout=compact&cache_seconds=1800"
+    height="165"
+  />
+</p>
 
-📜 **Certifications**
-- Data Science Certification — ExcleR Solutions
-- Machine Learning with Python — IBM
-- Python for Data Science — IBM
-- Master’s Program in Data Science — NASSCOM (Govt. of India)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Rahman17309"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Rahman17309&margin-w=15&margin-h=15"
+  />
+</p>
+
+---
+
+## 📌 Profile Summary
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahman17309"
+  />
+</p>
 
 ---
 
@@ -143,30 +157,13 @@ GPA: First Class
 </a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
+<p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rahman17309&show_icons=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman17309&layout=compact&cache_seconds=1800" 
-    height="165"
+    src="https://komarev.com/ghpvc/?username=Rahman17309&label=Profile%20Views&color=blue"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Rahman17309" 
-  />
-</p>
-
 
 ---
 
 ### 🤝 Let’s Collaborate
-I’m always open to collaborating on **data analytics, ML projects, dashboards, and business intelligence solutions**.  
-Feel free to reach out — happy to connect!
+Open to **Data Analytics, Power BI, Machine Learning & Business Intelligence projects**.
