@@ -5,7 +5,7 @@
 <h3 align="center">I am a data science enthusiast and currently a data science intern. I have a passion for analyzing data, building predictive models, and uncovering insights that drive decision-making. With a strong foundation in mathematics and programming, I am committed to continuously learning and applying data science techniques to real-world problems.</h3>
 <img align="center" alt="Coding" width="1000" src="https://proeffico.com/wp-content/uploads/2022/09/daonline.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman17309&label=Profile%20views&color=0e75b6&style=flat" alt="rahman17309" /> </p>
+<p align="left"> <img src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/profile-pic.png" /> </p>
 
 - 🔭 I’m currently working on **NLP Sentiment & Classification Analysis**
 
