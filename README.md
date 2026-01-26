@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rahman17309/ASSIGNMENT1/assets/126219061/a47ea788-2f25-4974-a784-a2acde0b9f0f" alt="Landscape DS">
+  <img src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/Gemini_Generated_Image_unsks8unsks8unsk.png" alt="Landscape DS">
 </p>
 <h1 align="center">Hi 👋, I'm MA Rahman</h1>
 <h3 align="center">I am a data science enthusiast and currently a data science intern. I have a passion for analyzing data, building predictive models, and uncovering insights that drive decision-making. With a strong foundation in mathematics and programming, I am committed to continuously learning and applying data science techniques to real-world problems.</h3>
