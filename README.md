@@ -1,82 +1,162 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/Gemini_Generated_Image_unsks8unsks8unsk.png" alt="Landscape DS">
+  <img 
+    src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/Gemini_Generated_Image_unsks8unsks8unsk.png" 
+    alt="Data Analytics Banner"
+    width="100%"
+  />
 </p>
+
+<!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm MA Rahman</h1>
-<h3 align="center">I am a data science enthusiast and currently a data science intern. I have a passion for analyzing data, building predictive models, and uncovering insights that drive decision-making. With a strong foundation in mathematics and programming, I am committed to continuously learning and applying data science techniques to real-world problems.</h3>
-<img align="center" alt="Coding" width="1000" src="https://proeffico.com/wp-content/uploads/2022/09/daonline.gif">
+<h3 align="center">
+Dynamic Business & Data Analyst with 3+ years of experience delivering predictive analytics, KPI-driven dashboards, and automated data solutions that drive measurable business growth.
+</h3>
 
-<p align="left"> <img src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/profile-pic.png" /> </p>
-
-- 🔭 I’m currently working on **NLP Sentiment & Classification Analysis**
-
-- 🌱 I’m currently learning **Advanced machine learning techniques and deep learning.**
-  - **Advanced Machine Learning Techniques:** Enrolled in Coursera's Advanced Machine Learning Specialization.
-  - **Deep Learning:** Following DeepLearning.AI's Deep Learning Specialization and implementing projects on convolutional neural networks and recurrent neural networks.
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rahman17309?tab=repositories)
-
-- 📝 I write articles on [Medium](https://medium.com/@abdulrahman17309)
-
-- 💬 Ask me about **Data**
-
-- 📫 How to reach me [Mail](mailto:rahmandatascience09@gmail.com)
-
-- ⚡ Fun fact **When I'm not crunching numbers and building models, I love hiking and exploring the great outdoors. There's nothing like a mountain trail to clear your mind and spark new data science ideas!**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/mohdrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohdrahman" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulrahman17309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrahman17309" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahman17309/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" height="30" width="120" /></a>
-<a href="mailto:rahmandatascience09@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-rahmandatascience09@gmail.com-red" alt="Email" height="30" width="250" /></a>
+<!-- ===================== PROFILE PIC ===================== -->
+<p align="center">
+  <img 
+    src="https://github.com/Rahman17309/Portfolio.github.io/blob/main/images/profile-pic.png"
+    alt="MA Rahman"
+    width="180"
+    style="border-radius:50%;"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🚀 About Me
+
+- 📊 **Business & Data Analyst** specializing in **Predictive Modeling, KPI Tracking & Automation**
+- 🧠 Strong expertise in **Python · BigQuery · Power BI · Advanced Excel**
+- ⚙️ Passionate about converting **statistical insights into real business impact**
+- 🌍 Experience across **Retail, SaaS, E-commerce, Energy & Finance domains**
+- 🤝 Known for working closely with **C-suite & cross-functional teams**
+
+---
+
+## 💼 Professional Experience
+
+### **Data Analyst — PDA Infotech**  
+📍 Dubai, UAE | 🗓 Nov 2024 – Present
+
+- Designed and deployed **predictive analytics & ML models** (Churn, CLV, Segmentation, Conversion)  
+  → 📈 Improved retention **18%**, increased conversion **25%**, generated **AED 150K quarterly revenue**
+- Built **Power BI dashboards** (DAX, Power Query) for Sales, Marketing & CX teams  
+  → Enabled **board-level KPI reporting & operational decisions**
+- Automated **ETL pipelines** using **Python, BigQuery & Google Sheets**  
+  → ⏱ Reduced manual reporting effort by **60%**
+- Delivered **forecasting, budgeting & performance models** directly to C-suite
+- Implemented **data governance frameworks** improving accuracy, consistency & trust
+
+---
+
+### **Data Science Intern — AI Variant**  
+📍 Hyderabad, India | 🗓 Jun 2023 – Aug 2024
+
+- Built **NLP sentiment analysis pipelines** using Python, NLTK & Scikit-learn  
+  → 🎯 Improved classification accuracy by **20%**
+- Developed **automated web scraping** using Selenium for real-time insights
+- Created **stock forecasting models** (LSTM, ARIMA, Prophet)  
+  → 📉 Reduced RMSE by **15%**, achieved **85% accuracy**
+- Designed **solar power prediction models**  
+  → ⚡ 88% accuracy, **12% operational cost reduction**
+- Built **bankruptcy risk models** using ensemble learning  
+  → 🚨 Reduced false positives by **18%**
+
+---
+
+### **Business Analyst — Amazon**  
+📍 Hyderabad, India | 🗓 May 2022 – May 2023
+
+- Automated seller operations using **Excel Macros & ETL**
+- Increased process efficiency by **15%**
+- Designed SOPs & improved catalog data integrity
+- Supported **Seller Flex & Transparency projects** through automation
+
+---
+
+## 🧠 Core Skills
+
+### **Languages & Tools**
+- Python, Power BI, Advanced Excel
+- SQL (PostgreSQL, MySQL), BigQuery
+- GitHub, AWS, Azure Cloud
+
+### **Libraries & Frameworks**
+- Pandas, NumPy, Scikit-learn
+- TensorFlow, Keras
+- Matplotlib, Seaborn, Plotly
+- Streamlit, Flask, REST APIs
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Bankruptcy Prevention System**
+Risk Assessment & Ensemble ML  
+- Improved accuracy **22%**
+- Reduced false positives **18%**
+
+### 🔹 **Apple Stock Forecasting**
+Time Series & Predictive Modeling  
+- LSTM + ARIMA + Prophet ensemble  
+- **15% RMSE reduction**, **85% accuracy**
+
+### 🔹 **NLP Sentiment & Classification**
+Customer Intelligence & Automation  
+- Real-time scraping + NLP pipeline  
+- **20% accuracy improvement**
+
+### 🔹 **Solar Power Prediction**
+Renewable Energy Optimization  
+- 88% prediction accuracy  
+- Deployed using **Streamlit**
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **B.Tech – Mechanical Engineering**  
+Jawaharlal Nehru Technological University Hyderabad  
+GPA: First Class
+
+📜 **Certifications**
+- Data Science Certification — ExcleR Solutions
+- Machine Learning with Python — IBM
+- Python for Data Science — IBM
+- Master’s Program in Data Science — NASSCOM (Govt. of India)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+<a href="https://github.com/Rahman17309" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/rahman17309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+</a>
+<a href="mailto:rahmandatascience09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman17309&show_icons=true&locale=en&layout=compact" alt="rahman17309" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman17309&show_icons=true&locale=en" alt="rahman17309" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman17309&" alt="rahman17309" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahman17309&show_icons=true&theme=default" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahman17309" />
+</p>
 
-## Let's Connect
+---
 
-I'm always excited to connect with other data enthusiasts and professionals. Feel free to reach out to me for collaboration, discussions, or just to say hi!
-
+### 🤝 Let’s Collaborate
+I’m always open to collaborating on **data analytics, ML projects, dashboards, and business intelligence solutions**.  
+Feel free to reach out — happy to connect!
