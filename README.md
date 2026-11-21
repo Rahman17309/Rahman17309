@@ -13,7 +13,7 @@ I turn messy business data into decisions: funnel & conversion analysis, A/B tes
   <a href="https://www.linkedin.com/in/rahman17309/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://rahman17309.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="mailto:rahmandatascience09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://raw.githubusercontent.com/Rahman17309/Portfolio.github.io/main/Resume/MA-RAHMAN.pdf"><img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://rahman17309.github.io/assets/MA_Rahman_Data_Analyst_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 ---
