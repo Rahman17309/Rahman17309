@@ -32,14 +32,14 @@ I turn messy business data into decisions: funnel & conversion analysis, A/B tes
 
 | Project | What it answers | Stack |
 |---|---|---|
-| 🛒 **[Product Funnel & Conversion Optimization](https://github.com/Rahman17309/product-funnel-conversion-analytics)** | Where an e-commerce funnel loses customers, what each fix is worth, and whether a one-page checkout worked (A/B test: **+17% conversion, p ≈ 0.001**) | SQL (DuckDB) · Python · statsmodels · Plotly |
+| 🛒 **[Product Funnel & Conversion Optimization](https://github.com/Rahman17309/product-funnel-conversion-analytics)** ✅ | Where an e-commerce funnel loses customers and what to fix first: one-page checkout A/B test **+17% conversion (p ≈ 0.001)**, five fixes ranked by ₹ value (top: **~₹32 L/yr**) · [case study](https://rahman17309.github.io/work/product-funnel.html) · [dashboard](https://rahman17309.github.io/work/funnel-dashboard.html) · [report](https://github.com/Rahman17309/product-funnel-conversion-analytics/blob/main/reports/recommendations.md) | SQL (DuckDB) · Python · statsmodels · Plotly |
 | 🏦 **[Bankruptcy Risk Prediction](https://github.com/Rahman17309/Bankruptcy-Prevention-Project)** | Which companies are at risk of bankruptcy, and what drives it (competitiveness, credibility, financial flexibility) | scikit-learn · SMOTE · Streamlit |
 | 💬 **[Customer Review Sentiment Analysis](https://github.com/Rahman17309/NLP-Sentiment-Classification-Analysis)** | Classifies scraped product reviews as positive/negative: **96% accuracy, macro-F1 0.92** | NLTK · VADER · scikit-learn · TensorFlow · Streamlit |
 | ☀️ **[Solar Power Prediction](https://github.com/Rahman17309/Solar-Power-Prediction)** | Predicts solar output from weather: **R² 0.90 on test, 0.85 cross-validated** | scikit-learn (Gradient Boosting) · Streamlit |
 | 📈 **[Apple Stock Forecasting](https://github.com/Rahman17309/Apple-Stock-Forecasting)** | 30-day AAPL price forecast comparing ARIMA, SARIMA, Holt-Winters, Prophet and LSTM | statsmodels · Prophet · Keras · Streamlit |
 | 📚 **[Data Science Coursework](https://github.com/Rahman17309/ExcelR-Data-Science-Assignments)** | 26 notebooks: statistics, hypothesis testing, regression, ML, clustering, forecasting | Python · scikit-learn · statsmodels |
 
-> 🗓️ **New end-to-end analytics project every week:** churn, CLV, marketing attribution, fraud monitoring, reconciliation automation and more.
+> 🗓️ **Building in public: a new end-to-end analytics project every week.** Next up: a transaction reconciliation engine, then e-commerce analytics, retention & RFM, forecasting, fraud monitoring and marketing ROI. Follow the [build log](https://rahman17309.github.io/#log).
 
 ---
 
